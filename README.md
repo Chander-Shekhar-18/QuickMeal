@@ -11,19 +11,19 @@
 ## Screenshots
 
 ### Home Screen
-<img src="https://github.com/Chander-Shekhar-18/QuickMeal/blob/master/images/Screenshot_2022-08-13-16-26-12-879_com.oliver.quickmeal.jpg width ="250px" height ="500px">
+<img src="https://github.com/Chander-Shekhar-18/QuickMeal/blob/master/images/Screenshot_2022-08-13-16-26-12-879_com.oliver.quickmeal.jpg" width ="250px" height ="500px">
 
 ### Sort by category
-<img src="https://github.com/Chander-Shekhar-18/QuickMeal/blob/master/images/Screenshot_2022-08-13-16-26-17-089_com.oliver.quickmeal.jpg width ="250px" height ="500px">
+<img src="https://github.com/Chander-Shekhar-18/QuickMeal/blob/master/images/Screenshot_2022-08-13-16-26-17-089_com.oliver.quickmeal.jpg" width ="250px" height ="500px">
 
 ### Search any recipe
-<img src="https://github.com/Chander-Shekhar-18/QuickMeal/blob/master/images/Screenshot_2022-08-13-16-26-26-779_com.oliver.quickmeal.jpg width ="250px" height ="500px">
+<img src="https://github.com/Chander-Shekhar-18/QuickMeal/blob/master/images/Screenshot_2022-08-13-16-26-26-779_com.oliver.quickmeal.jpg" width ="250px" height ="500px">
 
 ### Recipe Detail
-<img src="https://github.com/Chander-Shekhar-18/QuickMeal/blob/master/images/Screenshot_2022-08-13-16-26-35-567_com.oliver.quickmeal.jpg width ="250px" height ="500px">
+<img src="https://github.com/Chander-Shekhar-18/QuickMeal/blob/master/images/Screenshot_2022-08-13-16-26-35-567_com.oliver.quickmeal.jpg" width ="250px" height ="500px">
 
 ### ingredients and Making step by step
-<img src="https://github.com/Chander-Shekhar-18/QuickMeal/blob/master/images/Screenshot_2022-08-13-16-26-41-792_com.oliver.quickmeal.jpg width ="250px" height ="500px">
+<img src="https://github.com/Chander-Shekhar-18/QuickMeal/blob/master/images/Screenshot_2022-08-13-16-26-41-792_com.oliver.quickmeal.jpg" width ="250px" height ="500px">
 
 ### Similar Recipes
-<img src="https://github.com/Chander-Shekhar-18/QuickMeal/blob/master/images/Screenshot_2022-08-13-16-26-49-452_com.oliver.quickmeal.jpg width ="250px" height ="500px">
+<img src="https://github.com/Chander-Shekhar-18/QuickMeal/blob/master/images/Screenshot_2022-08-13-16-26-49-452_com.oliver.quickmeal.jpg" width ="250px" height ="500px">
